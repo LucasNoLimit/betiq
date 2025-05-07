@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **AI Sports Predictions**
   - Football, Tennis, and Basketball supported
@@ -24,7 +24,6 @@
 
 - **Open & Social**
   - [Follow us on Twitter](https://twitter.com/) for updates and new features
-  - [View the BetIQ GitHub](https://github.com/)
 
 ---
 
