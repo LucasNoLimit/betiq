@@ -4,6 +4,11 @@
 
 ---
 
+## 🔗 Solana Contract
+Contract Address: `TBA`
+
+---
+
 ## Features
 
 - **AI Sports Predictions**
@@ -23,14 +28,7 @@
   - Instantly access predictions—no login required
 
 - **Open & Social**
-  - [Follow us on Twitter](https://twitter.com/) for updates and new features
-
----
-
-## 🔗 Solana Contract
-**Coming Soon:** BetIQ Token on Solana
-
-Contract Address: `TBA`
+  - [Follow us on Twitter](https://x.com/BetIQ_ai) for updates and new features
 
 ---
 
