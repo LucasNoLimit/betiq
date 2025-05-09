@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Solana Contract
-Contract Address: `TBA`
+Contract Address: `HDX6EMo239PMKvjRLeiKxtUYpPJiq7FGNK3k8nJfpump`
 
 ---
 
